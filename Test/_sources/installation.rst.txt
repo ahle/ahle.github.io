@@ -14,7 +14,7 @@ Then, connect the Eyetracker device to the USB 3.0 port.
 
 Usually, these packages requires some other framework installations.
 
-For example: 
+For example:
 - Visual C++ 2003 Redistributable -x86
 - .NET framework
 
@@ -27,4 +27,10 @@ If your antivirus scans the running application, just ignore them.
 
 Next part, we will learn how to run Eyetracker.
 
-Here is some inline math: .. math:: a \ne 0 = 1
+Here is some inline math:
+
+.. math::
+
+   (a + b)^2 = a^2 + 2ab + b^2
+
+   (a - b)^2 = a^2 - 2ab + b^2
