@@ -1,0 +1,25 @@
+# Part II: User manual
+
+In previous part, we learned how to install Eyetracker on a new PC.  
+In this part, we explain the steps to use a Eyetracker application.
+
+Technically, the applications communicate with Eyetracker devices via Eyetracker service.  
+In other words, we should launch the Eyetracker service before Eyetracker applications.
+
+```
+$ Eyetracker/bin/release/eyetracker.exe
+```
+
+Two demo applications are implemented:
+
+* EyetrackerDemo: a window form application based on Eyetracker
+* EyetrackerWebDemo: a web version of EyetrackerDemo
+
+```
+$ EyetrackerDemo/bin/release/eyetracker.exe
+```
+
+### 
+
+
+

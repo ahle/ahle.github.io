@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Search &mdash; test  documentation</title>
+  <title>&lt;no title&gt; &mdash; test  documentation</title>
   
 
   
@@ -34,8 +34,9 @@
   
         <link rel="index" title="Index"
               href="genindex.html"/>
-        <link rel="search" title="Search" href="#"/>
-    <link rel="top" title="test  documentation" href="index.html"/> 
+        <link rel="search" title="Search" href="search.html"/>
+    <link rel="top" title="test  documentation" href="index.html"/>
+        <link rel="prev" title="Part I: Installation" href="installation.html"/> 
 
   
   <script src="_static/js/modernizr.min.js"></script>
@@ -67,7 +68,7 @@
 
           
 <div role="search">
-  <form id="rtd-search-form" class="wy-form" action="#" method="get">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
     <input type="hidden" name="check_keywords" value="yes" />
     <input type="hidden" name="area" value="default" />
@@ -131,10 +132,14 @@
     
       <li><a href="index.html">Docs</a> &raquo;</li>
         
-      <li>Search</li>
+      <li>&lt;no title&gt;</li>
     
     
       <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/user_manual.md.txt" rel="nofollow"> View page source</a>
+          
         
       </li>
     
@@ -146,19 +151,24 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <noscript>
-  <div id="fallback" class="admonition warning">
-    <p class="last">
-      Please activate JavaScript to enable the search
-      functionality.
-    </p>
-  </div>
-  </noscript>
+  <p># Part II: User manual</p>
+<p>In previous part, we learned how to install Eyetracker on a new PC.
+In this part, we explain the steps to use a Eyetracker application.</p>
+<p>Technically, the applications communicate with Eyetracker devices via Eyetracker service.
+In other words, we should launch the Eyetracker service before Eyetracker applications.</p>
+<p><code class="docutils literal"><span class="pre">`</span>
+<span class="pre">$</span> <span class="pre">Eyetracker/bin/release/eyetracker.exe</span>
+<span class="pre">`</span></code></p>
+<p>Two demo applications are implemented:</p>
+<ul class="simple">
+<li>EyetrackerDemo: a window form application based on Eyetracker</li>
+<li>EyetrackerWebDemo: a web version of EyetrackerDemo</li>
+</ul>
+<p><code class="docutils literal"><span class="pre">`</span>
+<span class="pre">$</span> <span class="pre">EyetrackerDemo/bin/release/eyetracker.exe</span>
+<span class="pre">`</span></code></p>
+<p>###</p>
 
-  
-  <div id="search-results">
-  
-  </div>
 
            </div>
            <div class="articleComments">
@@ -166,6 +176,13 @@
            </div>
           </div>
           <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="installation.html" class="btn btn-neutral" title="Part I: Installation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
   
 
   <hr/>
@@ -205,7 +222,6 @@
       <script type="text/javascript" src="_static/underscore.js"></script>
       <script type="text/javascript" src="_static/doctools.js"></script>
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-      <script type="text/javascript" src="_static/searchtools.js"></script>
 
   
 
@@ -221,14 +237,7 @@
           SphinxRtdTheme.StickyNav.enable();
       });
   </script>
-  
-  <script type="text/javascript">
-    jQuery(function() { Search.loadIndex("searchindex.js"); });
-  </script>
-  
-  <script type="text/javascript" id="searchindexloader"></script>
    
-
 
 </body>
 </html>

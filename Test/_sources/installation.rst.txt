@@ -1,0 +1,30 @@
+Part I: Installation
+====================
+
+In this section, we explain the important steps to install Eyetracker on a new PC.
+
+**Eyetracker device**
+
+Firstly, to run the applications based on Eyetracker device, we need to install two packages respectively `here <https://sites.google.com/view/ahle-dev/project/eyetracker>`_:
+
+1. myGaze 4.3.34.1
+2. myGaze SDK 4.30.1
+
+Then, connect the Eyetracker device to the USB 3.0 port.
+
+Usually, these packages requires some other framework installations.
+
+For example: 
+- Visual C++ 2003 Redistributable -x86
+- .NET framework
+
+**Eyetracker application**
+
+Next, download or clone Eyetracker applications from Github.
+In fact, to run Eyetracker applications, we only need the distribution versions which can be found in bin/release folders.
+Copy these files somewhere in your computer for running later.
+If your antivirus scans the running application, just ignore them.
+
+Next part, we will learn how to run Eyetracker.
+
+Here is some inline math: .. math:: a \ne 0 = 1
