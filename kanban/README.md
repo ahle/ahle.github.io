@@ -1,5 +1,5 @@
-# Introduction
+# Kanban templates
 
-# Math Examples
+include: javascript, css
 
 
