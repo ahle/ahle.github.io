@@ -1,1 +1,15 @@
-<mxfile host="www.draw.io" modified="2019-10-28T12:51:19.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="8yRfPM0Nq28koal55gUO" version="12.1.7" type="github" pages="1"><diagram id="d-UwprQaQWypF3VYahhv" name="Page-1">dZFNE4IgEIZ/DXeFyepslpdOHjozsgkz6DJIo/Xr0wEzxjqxPPvuN2F5O14sN/KKAjShiRgJOxFKU7bLpmcmT08OCfWgsUoE0Qoq9YIAk0AfSkAfCR2idsrEsMaug9pFjFuLQyy7o46rGt7ABlQ111t6U8LJMAXdr7wE1cilcpodvaflizhM0ksucPhCrCAst4jOW+2Yg56Xt+zFx53/eD+NWejcj4DJWHNPn+hCrHgD</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-28T12:52:46.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="mcGB9o6105dEqAgK7liP" version="12.1.7" type="github" pages="1">
+  <diagram id="d-UwprQaQWypF3VYahhv" name="visual thinking">
+    <mxGraphModel dx="1356" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <UserObject label="Technical SEO for marketing" link="https://github.com/ahle/ahle.github.io/blob/master/books/technical-seo-for-web-developers-ebook.pdf" id="iN4t_NXsh6qCtModlQWy-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="258" y="176" width="112" height="50" as="geometry"/>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
